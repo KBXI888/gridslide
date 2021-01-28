@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+#gridview img {
+height: 150px;
+width: 190px;   
+}
+
+#slideview img {
+ height: 500px;
+width: 550px;    
+}
